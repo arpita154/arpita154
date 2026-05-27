@@ -1,4 +1,4 @@
-<h1 align="center"><img align="right alt="coding width="50"" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWI2bnVtMWt2MG9lNzA4OHB2cG84ZW4zZWI3ajNsMTc0a3dzZGwwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"><b>Hi 👋, I'm Arpita Hota</b><img align="right alt="coding width="50"" src="https://s5.ezgif.com/tmp/ezgif-522e0bc1ea3eefae.gif"></h1>
+<h1 align="center"><img align="right alt="coding width="50"" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWI2bnVtMWt2MG9lNzA4OHB2cG84ZW4zZWI3ajNsMTc0a3dzZGwwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"><b>Hi 👋, I'm Arpita Hota</b><img align="right alt="coding width="50"" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWI2bnVtMWt2MG9lNzA4OHB2cG84ZW4zZWI3ajNsMTc0a3dzZGwwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"></h1>
 <h3 align="center">Problem Solver | Tech Enthusiast</h3>
 
 <p></a> </p>
